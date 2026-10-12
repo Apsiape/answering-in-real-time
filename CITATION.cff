@@ -20,6 +20,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23310629
     description: "Version 1.0.0"
+  - type: doi
+    value: 10.5281/zenodo.23310737
+    description: "Version 1.0.1"
 url: "https://github.com/Apsiape/answering-in-real-time"
 repository-code: "https://github.com/Apsiape/answering-in-real-time"
 preferred-citation:
