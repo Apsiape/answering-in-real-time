@@ -7,6 +7,8 @@ Seth Douglas and Nidhal Mghirbi — October 2026.
 [Read the manuscript](paper/main.pdf) · [TeX source](paper/main.tex) ·
 [Machine checks](verification/README.md)
 
+A short letter summarizing all four papers is *Order, not speed: the work price of letting go* ([doi:10.5281/zenodo.23323808](https://doi.org/10.5281/zenodo.23323808); [Apsiape/order-not-speed](https://github.com/Apsiape/order-not-speed)).
+
 Many devices must answer each request before the next one arrives, while remembering what came before. This
 paper determines how much work such a device must spend per episode, one complete run of the process, for every finite interactive quantum process whose
 outputs carry the same Hamiltonians as its inputs, at every positive finite temperature.
